@@ -17,7 +17,7 @@ The dataset represents structured retail transaction data similar to POS/ERP sys
 
 The dataset is included in the repository for transparency and reference.
 
-## Dashboard
+## 📊 Dashboard
 •⁠  ⁠<a href="https://docs.google.com/spreadsheets/d/11NPKPsQxJF5rV12CuqvxIZBaumOeLG12UdS7gXhGcM4/edit?usp=sharing"> View Dashboard</a>
 Users can open the dashboard file to interact with filters and analyze performance across states, categories, items, and sales channels.
 
@@ -56,6 +56,12 @@ The dashboard answers the following questions:
 7. Interpreted insights to support business decisions  
 
 ---
+
+## 🔍 Key Insights (Summary)
+- A small number of states contribute a disproportionately high share of total sales, indicating regional concentration.
+- Certain product categories drive most of the revenue, while some high-quantity items show lower profitability due to discounts and returns.
+- Sales channels differ significantly in performance, with online delivery showing higher return rates compared to in-store purchases.
+- Higher sales volumes do not always correlate with higher profitability, highlighting the impact of discounts and returns.
 
 
 ## 📽 Presentation & Documentation
