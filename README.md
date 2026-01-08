@@ -6,6 +6,10 @@ The project focuses on identifying sales trends, understanding product and categ
 ---
 
 ## 📂 Dataset Used
+
+## 📊 Dataset
+•⁠  ⁠<a href="https://docs.google.com/spreadsheets/d/1GzcfjCPA5nrTCu1bBHaTfYt8nTKqPyqkGq__OEuC9kw/edit?usp=sharing"> Dataset</a>
+
 The dataset represents structured retail transaction data similar to POS/ERP systems and includes:
 - Sales and returns data
 - Product items and categories
@@ -50,9 +54,6 @@ The dashboard answers the following questions:
 7. Interpreted insights to support business decisions  
 
 ---
-
-## 📊 Dataset
-•⁠  ⁠<a href="https://docs.google.com/spreadsheets/d/1GzcfjCPA5nrTCu1bBHaTfYt8nTKqPyqkGq__OEuC9kw/edit?usp=sharing"> Dataset</a>
 
 ## Dashboard
 •⁠  ⁠<a href="https://docs.google.com/spreadsheets/d/11NPKPsQxJF5rV12CuqvxIZBaumOeLG12UdS7gXhGcM4/edit?usp=sharing"> View Dashboard</a>
