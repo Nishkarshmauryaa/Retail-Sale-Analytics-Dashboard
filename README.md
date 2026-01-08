@@ -5,8 +5,6 @@ The project focuses on identifying sales trends, understanding product and categ
 
 ---
 
-## 📂 Dataset Used
-
 ## 📊 Dataset
 •⁠  ⁠<a href="https://docs.google.com/spreadsheets/d/1GzcfjCPA5nrTCu1bBHaTfYt8nTKqPyqkGq__OEuC9kw/edit?usp=sharing"> Dataset</a>
 
@@ -18,6 +16,10 @@ The dataset represents structured retail transaction data similar to POS/ERP sys
 - State-wise sales information
 
 The dataset is included in the repository for transparency and reference.
+
+## Dashboard
+•⁠  ⁠<a href="https://docs.google.com/spreadsheets/d/11NPKPsQxJF5rV12CuqvxIZBaumOeLG12UdS7gXhGcM4/edit?usp=sharing"> View Dashboard</a>
+Users can open the dashboard file to interact with filters and analyze performance across states, categories, items, and sales channels.
 
 ---
 
@@ -55,11 +57,6 @@ The dashboard answers the following questions:
 
 ---
 
-## Dashboard
-•⁠  ⁠<a href="https://docs.google.com/spreadsheets/d/11NPKPsQxJF5rV12CuqvxIZBaumOeLG12UdS7gXhGcM4/edit?usp=sharing"> View Dashboard</a>
-Users can open the dashboard file to interact with filters and analyze performance across states, categories, items, and sales channels.
-
----
 
 ## 📽 Presentation & Documentation
 A detailed presentation is included in the repository that explains:
